@@ -1,0 +1,26 @@
+
+/* Estilo para la tarjeta */
+.card1 {
+    max-width: 300px;
+    padding: 20px;
+
+}
+
+/* Estilo para la imagen */
+.card-img-custom {
+    width: 30%;
+    height: auto;
+    margin: 8px;
+    display: block;
+}
+
+.card-title {
+    font-size: 20px;
+}
+
+
+.card-text {
+    font-size: 18px;
+    text-align: justify;
+}
+

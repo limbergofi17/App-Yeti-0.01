@@ -1,0 +1,13 @@
+/* Estilo para la imagen */
+.card-img-custom1 {
+    width: 20%; /* Ajusta el ancho de la imagen al 80% del contenedor */
+    height: 0 auto; /* Ajusta la altura automáticamente para mantener la proporción original */
+    margin: 5px; /* Centra la imagen horizontalmente dentro del contenedor */
+    display: inline-block; /* Asegura que la imagen se comporte como un bloque dentro del contenedor */
+}
+
+.Tablita{
+    padding: auto;
+    margin: auto;
+    height: 0 auto;
+}
